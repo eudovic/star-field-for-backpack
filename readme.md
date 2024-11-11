@@ -1,4 +1,4 @@
-# Star Field for Backpack 4.1
+# Star Field for Backpack 6.1
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Build Status][ico-build]][link-build]
