@@ -1,5 +1,5 @@
 {
-    "name": "soufiene-slimi/star-field-for-backpack",
+    "name": "eudovic/star-field-for-backpack",
     "description": "Easily rate items with stars using this new field type.",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/soufiene-slimi"
         }
     ],
-    "homepage": "https://github.com/soufiene-slimi/star-field-for-backpack",
+    "homepage": "https://github.com/eudovic/star-field-for-backpack",
     "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel", "Star", "Rate"],
     "require": {
         "backpack/crud": "^6.1.0"
